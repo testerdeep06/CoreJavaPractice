@@ -7,6 +7,7 @@ public class Assignment_1 {
 	public void display1() {
 		
 		System.out.println("Hello Everone ...");
+		System.out.println("Hello Everone hi ...");
 	}
     public void display2() {
 		
